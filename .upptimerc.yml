@@ -1,8 +1,10 @@
 owner: YRA-Tech # GitHub username
 repo: upptime # GitHub repository name
 sites: # List of endpoints to track
-  - name: YRA Tech
+  - name: YRA Tech Stage
     url: https://stage.yratech.com
+  - name: YRA Tech Production
+    url: https://yratech.com
 assignees: # Users to assign downtime issues (optional)
   - umaidshahid
 status-website:
