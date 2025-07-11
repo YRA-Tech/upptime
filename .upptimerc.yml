@@ -21,10 +21,10 @@ status-website:
       href: /
     - title: YRA Tech GitHub Org page
       href: https://github.com/YRA-Tech/
-    - title: YRA Tech Upptime GitHub
+    - title: YRA Tech Upptime GitHub Project
       href: https://github.com/YRA-Tech/upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This status page which uses **real-time** data from our [GitHub repository](https://github.com/YRA-Tech/upptime).
+  introMessage: This status page uses **real-time** data from our [GitHub repository](https://github.com/YRA-Tech/upptime).
   
 
   
