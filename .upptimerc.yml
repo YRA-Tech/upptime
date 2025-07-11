@@ -6,6 +6,6 @@ sites: # List of endpoints to track
 assignees: # Users to assign downtime issues (optional)
   - umaidshahid
 status-website:
-  cname: status.yratech.com # Custom domain CNAME
+#  cname: status.yratech.com # Custom domain CNAME
   baseUrl: /upptime # where "repo" is your repository name
   name: YRA Tech Status
