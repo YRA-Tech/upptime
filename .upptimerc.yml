@@ -1,4 +1,4 @@
-owner: YRA Tech # GitHub username
+owner: YRA-Tech # GitHub username
 repo: upptime # GitHub repository name
 sites: # List of endpoints to track
   - name: YRA Tech
@@ -6,5 +6,6 @@ sites: # List of endpoints to track
 assignees: # Users to assign downtime issues (optional)
   - umaidshahid
 status-website:
+  cname: status.yratech.com # Custom domain CNAME
   baseUrl: /upptime # where "repo" is your repository name
   name: YRA Tech Status
