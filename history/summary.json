@@ -16,7 +16,7 @@
     "timeMonth": 295,
     "timeYear": 288,
     "dailyMinutesDown": {
-      "2025-08-14": 6,
+      "2025-08-14": 1093,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
@@ -58,17 +58,19 @@
     "url": "https://yratech.com",
     "icon": "https://icons.duckduckgo.com/ip3/yratech.com.ico",
     "slug": "yra-tech-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 288,
-    "timeDay": 783,
-    "timeWeek": 329,
-    "timeMonth": 300,
-    "timeYear": 288,
-    "dailyMinutesDown": {}
+    "time": 793,
+    "timeDay": 10380,
+    "timeWeek": 2785,
+    "timeMonth": 915,
+    "timeYear": 793,
+    "dailyMinutesDown": {
+      "2025-08-14": 0
+    }
   }
 ]
