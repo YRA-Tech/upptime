@@ -6,7 +6,7 @@ sites: # List of endpoints to track
   - name: YRA Tech Production
     url: https://yratech.com
 assignees: # Users to assign downtime issues (optional)
-  - umaidshahid
+  - wittjeff
 status-website:
 #  cname: status.yratech.com # Custom domain CNAME
 #  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
