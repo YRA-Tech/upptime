@@ -6,15 +6,15 @@
     "slug": "yra-tech-stage",
     "status": "down",
     "uptime": "18.71%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "96.97%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "18.71%",
-    "time": 698,
+    "time": 695,
     "timeDay": 300,
     "timeWeek": 406,
     "timeMonth": 454,
-    "timeYear": 698,
+    "timeYear": 695,
     "dailyMinutesDown": {
       "2025-08-22": 1129,
       "2025-08-21": 1440,
@@ -315,7 +315,7 @@
       "2025-08-27": 24,
       "2026-05-09": 63,
       "2026-06-01": 100,
-      "2026-07-09": 0
+      "2026-07-09": 44
     }
   },
   {
