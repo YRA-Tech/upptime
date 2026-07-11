@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/stage.yratech.com.ico",
     "slug": "yra-tech-stage",
     "status": "up",
-    "uptime": "19.11%",
+    "uptime": "19.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.57%",
     "uptimeMonth": "99.90%",
@@ -14,7 +14,7 @@
     "timeDay": 387,
     "timeWeek": 358,
     "timeMonth": 446,
-    "timeYear": 694,
+    "timeYear": 697,
     "dailyMinutesDown": {
       "2025-08-22": 1129,
       "2025-08-21": 1440,
@@ -322,17 +322,17 @@
     "url": "https://yratech.com",
     "icon": "https://icons.duckduckgo.com/ip3/yratech.com.ico",
     "slug": "yra-tech-production",
-    "status": "down",
-    "uptime": "99.21%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.21%",
-    "time": 784,
-    "timeDay": 1759,
-    "timeWeek": 727,
-    "timeMonth": 437,
-    "timeYear": 787,
+    "status": "up",
+    "uptime": "99.20%",
+    "uptimeDay": "97.43%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.20%",
+    "time": 781,
+    "timeDay": 1291,
+    "timeWeek": 685,
+    "timeMonth": 435,
+    "timeYear": 788,
     "dailyMinutesDown": {
       "2025-08-17": 747,
       "2025-08-16": 1440,
@@ -342,7 +342,7 @@
       "2026-05-09": 108,
       "2026-05-30": 69,
       "2026-06-09": 66,
-      "2026-07-11": 0
+      "2026-07-11": 37
     }
   }
 ]
