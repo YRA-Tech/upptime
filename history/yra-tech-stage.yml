@@ -1,7 +1,7 @@
 url: https://stage.yratech.com
-status: up
-code: 200
-responseTime: 765
-lastUpdated: 2026-07-13T23:20:09.036Z
+status: down
+code: 500
+responseTime: 627
+lastUpdated: 2026-07-14T00:12:40.772Z
 startTime: 2025-07-11T12:55:09.143Z
 generator: Upptime <https://github.com/upptime/upptime>
