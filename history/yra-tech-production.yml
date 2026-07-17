@@ -1,7 +1,7 @@
 url: https://yratech.com
-status: up
-code: 200
-responseTime: 802
-lastUpdated: 2026-07-15T23:21:17.011Z
+status: down
+code: 502
+responseTime: 3180
+lastUpdated: 2026-07-17T20:00:55.206Z
 startTime: 2025-07-11T12:55:11.666Z
 generator: Upptime <https://github.com/upptime/upptime>
