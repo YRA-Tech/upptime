@@ -7,6 +7,10 @@ sites: # List of endpoints to track
     url: https://yratech.com
 assignees: # Users to assign downtime issues (optional)
   - wittjeff
+notifications: # Push a message on downtime/recovery (in addition to the GitHub issue)
+  - type: telegram
+    token: $TELEGRAM_TOKEN # Bot token from @BotFather, stored as repo secret TELEGRAM_TOKEN
+    chatId: $TELEGRAM_CHAT_ID # Your chat id with the bot, stored as repo secret TELEGRAM_CHAT_ID
 status-website:
 #  cname: status.yratech.com # Custom domain CNAME
 #  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
