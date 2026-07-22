@@ -5,6 +5,13 @@ sites: # List of endpoints to track
     url: https://stage.yratech.com
   - name: YRA Tech Production
     url: https://yratech.com
+  # /api/health does a real SELECT 1 and returns 503 when the database is
+  # unreachable — the homepage alone stays 200 through a DB outage, so these
+  # are what actually catch one (2026-07-22 dbs-prod outage was invisible above)
+  - name: YRA Tech Stage DB health
+    url: https://stage.yratech.com/api/health
+  - name: YRA Tech Production DB health
+    url: https://yratech.com/api/health
 assignees: # Users to assign downtime issues (optional)
   - wittjeff
 status-website:
