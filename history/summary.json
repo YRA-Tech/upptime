@@ -4,17 +4,17 @@
     "url": "https://stage.yratech.com",
     "icon": "https://icons.duckduckgo.com/ip3/stage.yratech.com.ico",
     "slug": "yra-tech-stage",
-    "status": "down",
+    "status": "up",
     "uptime": "24.88%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.71%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.65%",
     "uptimeYear": "26.79%",
-    "time": 1053,
-    "timeDay": 441,
-    "timeWeek": 643,
-    "timeMonth": 2419,
-    "timeYear": 1201,
+    "time": 1050,
+    "timeDay": 432,
+    "timeWeek": 617,
+    "timeMonth": 2370,
+    "timeYear": 1196,
     "dailyMinutesDown": {
       "2025-08-22": 1129,
       "2025-08-21": 1440,
@@ -290,7 +290,7 @@
       "2026-07-14": 37,
       "2026-07-20": 23,
       "2026-07-21": 22,
-      "2026-08-08": 1
+      "2026-08-08": 25
     }
   },
   {
@@ -298,17 +298,17 @@
     "url": "https://yratech.com",
     "icon": "https://icons.duckduckgo.com/ip3/yratech.com.ico",
     "slug": "yra-tech-production",
-    "status": "down",
-    "uptime": "98.47%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "89.70%",
-    "uptimeYear": "98.35%",
-    "time": 839,
-    "timeDay": 213,
-    "timeWeek": 319,
-    "timeMonth": 1102,
-    "timeYear": 946,
+    "status": "up",
+    "uptime": "98.46%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "89.65%",
+    "uptimeYear": "98.34%",
+    "time": 836,
+    "timeDay": 260,
+    "timeWeek": 323,
+    "timeMonth": 1082,
+    "timeYear": 942,
     "dailyMinutesDown": {
       "2025-08-17": 747,
       "2025-08-16": 1440,
@@ -324,7 +324,7 @@
       "2026-07-18": 1440,
       "2026-07-17": 239,
       "2026-07-21": 21,
-      "2026-08-08": 1
+      "2026-08-08": 25
     }
   },
   {
@@ -332,19 +332,19 @@
     "url": "https://stage.yratech.com/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/stage.yratech.com.ico",
     "slug": "yra-tech-stage-db-health",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 500,
-    "timeDay": 296,
-    "timeWeek": 580,
-    "timeMonth": 500,
-    "timeYear": 500,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 507,
+    "timeDay": 409,
+    "timeWeek": 586,
+    "timeMonth": 507,
+    "timeYear": 507,
     "dailyMinutesDown": {
-      "2026-08-08": 0
+      "2026-08-08": 25
     }
   },
   {
@@ -352,19 +352,19 @@
     "url": "https://yratech.com/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/yratech.com.ico",
     "slug": "yra-tech-production-db-health",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 276,
-    "timeDay": 161,
-    "timeWeek": 187,
-    "timeMonth": 276,
-    "timeYear": 276,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "98.28%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 278,
+    "timeDay": 210,
+    "timeWeek": 201,
+    "timeMonth": 278,
+    "timeYear": 278,
     "dailyMinutesDown": {
-      "2026-08-08": 0
+      "2026-08-08": 25
     }
   }
 ]
