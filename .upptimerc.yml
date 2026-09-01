@@ -8,6 +8,11 @@ sites: # List of endpoints to track
   # /api/health does a real SELECT 1 and returns 503 when the database is
   # unreachable — the homepage alone stays 200 through a DB outage, so these
   # are what actually catch one (2026-07-22 dbs-prod outage was invisible above)
+  # Strict health adds queue-stall + per-capability coverage detection AND is
+  # the exact URL the Cloudflare LB fails over on — an issue here means either
+  # workers are stalled or a failover to dr1 just happened (2026-08-31 DR build).
+  - name: YRA Tech Production Strict (queue + failover signal)
+    url: https://yratech.com/api/health?strict=1
   - name: YRA Tech Stage DB health
     url: https://stage.yratech.com/api/health
   - name: YRA Tech Production DB health
