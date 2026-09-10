@@ -1,7 +1,7 @@
 url: https://stage.yratech.com/api/health
-status: up
-code: 200
-responseTime: 902
-lastUpdated: 2026-09-09T23:08:54.882Z
+status: down
+code: 502
+responseTime: 3241
+lastUpdated: 2026-09-10T03:05:15.040Z
 startTime: 2026-07-22T23:17:06.564Z
 generator: Upptime <https://github.com/upptime/upptime>
