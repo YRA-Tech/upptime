@@ -1,7 +1,7 @@
 url: https://yratech.com/api/health?strict=1
-status: down
-code: 503
-responseTime: 106
-lastUpdated: 2026-10-20T23:08:51.488Z
+status: up
+code: 200
+responseTime: 394
+lastUpdated: 2026-10-21T16:08:27.019Z
 startTime: 2026-09-01T00:02:38.058Z
 generator: Upptime <https://github.com/upptime/upptime>
