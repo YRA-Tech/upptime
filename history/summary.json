@@ -4,17 +4,17 @@
     "url": "https://stage.yratech.com",
     "icon": "https://icons.duckduckgo.com/ip3/stage.yratech.com.ico",
     "slug": "yra-tech-stage",
-    "status": "down",
+    "status": "up",
     "uptime": "36.34%",
-    "uptimeDay": "99.96%",
+    "uptimeDay": "99.60%",
     "uptimeWeek": "77.86%",
-    "uptimeMonth": "62.64%",
+    "uptimeMonth": "62.63%",
     "uptimeYear": "46.55%",
-    "time": 1029,
-    "timeDay": 9934,
-    "timeWeek": 4778,
-    "timeMonth": 1661,
-    "timeYear": 1178,
+    "time": 1027,
+    "timeDay": 6719,
+    "timeWeek": 4457,
+    "timeMonth": 1630,
+    "timeYear": 1174,
     "dailyMinutesDown": {
       "2026-05-07": 1210,
       "2026-05-06": 1440,
@@ -224,7 +224,7 @@
       "2026-10-29": 1440,
       "2026-10-28": 631,
       "2026-11-02": 212,
-      "2026-11-05": 1
+      "2026-11-05": 6
     }
   },
   {
@@ -307,7 +307,7 @@
     "status": "up",
     "uptime": "89.13%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "77.87%",
+    "uptimeWeek": "77.93%",
     "uptimeMonth": "62.64%",
     "uptimeYear": "89.13%",
     "time": 586,
@@ -385,7 +385,7 @@
     "timeMonth": 246,
     "timeYear": 246,
     "dailyMinutesDown": {
-      "2026-11-05": 575,
+      "2026-11-05": 580,
       "2026-11-04": 1440,
       "2026-11-03": 1440,
       "2026-11-02": 1440,
@@ -425,7 +425,7 @@
     "timeMonth": 213,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2026-11-05": 575,
+      "2026-11-05": 580,
       "2026-11-04": 1440,
       "2026-11-03": 1440,
       "2026-11-02": 1440,
