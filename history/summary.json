@@ -4,16 +4,16 @@
     "url": "https://stage.yratech.com",
     "icon": "https://icons.duckduckgo.com/ip3/stage.yratech.com.ico",
     "slug": "yra-tech-stage",
-    "status": "down",
+    "status": "up",
     "uptime": "37.32%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "62.64%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "62.63%",
     "uptimeYear": "48.61%",
     "time": 1143,
-    "timeDay": 5936,
-    "timeWeek": 4131,
-    "timeMonth": 2410,
+    "timeDay": 5016,
+    "timeWeek": 3916,
+    "timeMonth": 2389,
     "timeYear": 1326,
     "dailyMinutesDown": {
       "2026-05-07": 1210,
@@ -217,7 +217,7 @@
       "2026-10-29": 1440,
       "2026-10-28": 631,
       "2026-11-02": 212,
-      "2026-11-12": 1
+      "2026-11-12": 6
     }
   },
   {
@@ -267,7 +267,7 @@
     "uptime": "82.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "79.52%",
+    "uptimeMonth": "79.53%",
     "uptimeYear": "82.56%",
     "time": 210,
     "timeDay": 103,
@@ -297,17 +297,17 @@
     "url": "https://stage.yratech.com/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/stage.yratech.com.ico",
     "slug": "yra-tech-stage-db-health",
-    "status": "down",
-    "uptime": "89.86%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "62.64%",
-    "uptimeYear": "89.86%",
-    "time": 725,
-    "timeDay": 1727,
-    "timeWeek": 2531,
-    "timeMonth": 1263,
-    "timeYear": 725,
+    "status": "up",
+    "uptime": "89.85%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "62.63%",
+    "uptimeYear": "89.85%",
+    "time": 721,
+    "timeDay": 1216,
+    "timeWeek": 2319,
+    "timeMonth": 1240,
+    "timeYear": 721,
     "dailyMinutesDown": {
       "2026-08-08": 25,
       "2026-08-13": 50,
@@ -328,7 +328,7 @@
       "2026-10-29": 1440,
       "2026-10-28": 631,
       "2026-11-02": 212,
-      "2026-11-12": 1
+      "2026-11-12": 6
     }
   },
   {
@@ -379,7 +379,7 @@
     "timeMonth": 261,
     "timeYear": 261,
     "dailyMinutesDown": {
-      "2026-11-12": 1353,
+      "2026-11-12": 1358,
       "2026-11-11": 1440,
       "2026-11-10": 1440,
       "2026-11-09": 1440,
@@ -426,7 +426,7 @@
     "timeMonth": 232,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2026-11-12": 1353,
+      "2026-11-12": 1358,
       "2026-11-11": 1440,
       "2026-11-10": 1440,
       "2026-11-09": 1440,
